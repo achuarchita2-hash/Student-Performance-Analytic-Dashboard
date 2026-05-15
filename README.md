@@ -1,4 +1,7 @@
 # Student Performance Analytics Dashboard – Power BI Project
+<img width="1099" height="637" alt="Screenshot 2026-05-15 142640" src="https://github.com/user-attachments/assets/140fe603-1c54-4a47-83fa-bbe5f3062cdb" />
+<img width="1080" height="618" alt="Screenshot 2026-05-15 142828" src="https://github.com/user-attachments/assets/3e4b50e4-59d4-4d27-ae66-ee955a6dba42" />
+
 
 ## Project Overview
 
